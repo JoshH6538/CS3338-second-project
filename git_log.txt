@@ -1,0 +1,45 @@
+commit f29416f6474f53d0abf21ed559f98f14017d5801
+Merge: b11642a e60b4ae
+Author: JoshH6538 <joshuahanscom6538@gmail.com>
+Date:   Wed Aug 28 14:54:10 2024 -0700
+
+    Merge branch 'index-fix'
+
+commit e60b4aecc6306bb45d905d117da4714c6b3ca300
+Author: Joshua Hanscom <joshuahanscom6538@gmail.com>
+Date:   Wed Aug 28 14:48:23 2024 -0700
+
+    changed index
+
+commit b11642a197f44ae26756808157188a6223dd0bbb
+Author: Joshua Hanscom <joshuahanscom6538@gmail.com>
+Date:   Wed Aug 28 14:46:28 2024 -0700
+
+    modified index
+
+commit 45fc4b35c456f1c38e946f0824c1e5d7856def1a
+Author: Joshua Hanscom <joshuahanscom6538@gmail.com>
+Date:   Wed Aug 28 14:33:14 2024 -0700
+
+    added readme
+
+commit 26d0c82a0dbb7631c0cd4a12456cead779a3f2b1
+Merge: 1d2bfc0 e24d4b3
+Author: JoshH6538 <JOSHUAHANSCOM6538@GMAIL.COM>
+Date:   Wed Aug 28 14:30:02 2024 -0700
+
+    Merge pull request #1 from JoshH6538/info-fill
+    
+    filled in 2 blanks
+
+commit e24d4b32566d7552b48e0f8c3e4f516a53576549
+Author: Joshua Hanscom <joshuahanscom6538@gmail.com>
+Date:   Wed Aug 28 14:23:46 2024 -0700
+
+    filled in 2 blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
